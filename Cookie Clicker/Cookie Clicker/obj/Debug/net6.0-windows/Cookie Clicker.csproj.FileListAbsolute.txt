@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.exe
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.deps.json
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.runtimeconfig.json
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.dll
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.pdb
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie_Clicker.Form1.resources
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie_Clicker.Properties.Resources.resources
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.AssemblyInfo.cs
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.dll
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\refint\Cookie Clicker.dll
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.pdb
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.genruntimeconfig.cache
+C:\Users\asus\Desktop\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\ref\Cookie Clicker.dll
